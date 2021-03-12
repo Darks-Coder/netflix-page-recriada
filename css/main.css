@@ -44,7 +44,7 @@ header nav a:hover{
 /*filme principal*/
 
 .filme-principal{
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('file:///C:/Users/thiag/Desktop/Digital%20Invitational%20One/BootCamp%20HTML/Aula%207%20_%20Recriando%20a%20interface%20da%20netflix/img/wanda-vision.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("file:///C:/Users/thiag/Desktop/Digital%20Invitational%20One/BootCamp%20HTML/Aula%207%20_%20Recriando%20a%20interface%20da%20netflix/Recriando%20a%20interface%20da%20netflix/netflix-page-")
     font-size: 16px;
 
     
